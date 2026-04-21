@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at the Faculty of Computers and Artificial Intelligence, Cairo University, with a strong <br>interest in backend development using ASP.NET Core and the .NET ecosystem. Worked on several <br>projects following the 3-tier architecture, which strengthened my understanding of clean code and <br>scalable backend systems. Always eager to learn, improve my skills, and work on real projects that <br>help in growing up as a Software Engineer. 
+Student at the Faculty of Computers and Artificial Intelligence, Cairo University, with a strong <br>interest in backend development using ASP.NET Core and the .NET ecosystem. Worked on several <br>projects following more than architecture pattern like N-Tier , Onion & Clean architecture, which strengthened my understanding of clean code and <br>scalable backend systems. Always eager to learn, improve my skills, and work on real projects that <br>help in growing up as a Software Engineer. 
 
 
 ## 🌐 Socials:
